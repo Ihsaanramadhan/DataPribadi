@@ -1,6 +1,6 @@
 ## Selamat datang di GitHub.io saya!
 
-Web ini hanya berisikan beberapa sertifikat yang saya miliki.
+Web sederhana ini hanya berisikan beberapa sertifikat yang saya miliki.
 Saya mengikuti beberapa pelatihan dan sertifikasi ini secara online maupun offline. Saya akan jelaskan apa yang saya dapatkan selama pelatihan tersebut. Untuk detail dari pelatihan yang saya ikuti juga terlampir pada sertifikatnya. 
 
 
@@ -14,7 +14,20 @@ Saya mengikuti beberapa pelatihan dan sertifikasi ini secara online maupun offli
 
 ![image](https://user-images.githubusercontent.com/77278210/122932613-15d98a00-d398-11eb-8e26-efc6e1d40bed.png)
 
+### Juniper Networks - JNCIA CLOUD : On Demand Training Bootcamp (15 Februari 2021) 
+- Menjelaskan konsep dasar sistem komunikasi jaringan. 
+- Menjelaskan standar protokol yang digunakan dalam sistem komunikasi jaringan
+- Menjelaskan subnetting dan routing protocol yang digunakan dalam sistem komunikasi jaringan
+- Membuat dan menerapkan konfigurasi dasar jaringan menggunakan perangkat Cisco baik mengunakan sistem wireline ataupun wireless
+- Menjelaskan dan melakukan mitigasi ketika terjadi sebuah trouble dalam sebuah jaringan
 
+
+### dicoding academy - DevOps Praktis dengan IBM Cloud : Practical DevOps with IBM Cloud (26 April 2021)  
+- Menjelaskan konsep dasar sistem komunikasi jaringan. 
+- Menjelaskan standar protokol yang digunakan dalam sistem komunikasi jaringan
+- Menjelaskan subnetting dan routing protocol yang digunakan dalam sistem komunikasi jaringan
+- Membuat dan menerapkan konfigurasi dasar jaringan menggunakan perangkat Cisco baik mengunakan sistem wireline ataupun wireless
+- Menjelaskan dan melakukan mitigasi ketika terjadi sebuah trouble dalam sebuah jaringan
 ```markdown
 Syntax highlighted code block
 
