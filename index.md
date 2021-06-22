@@ -21,6 +21,7 @@ Saya mengikuti beberapa pelatihan dan sertifikasi ini secara online maupun offli
 - Membuat dan menerapkan konfigurasi dasar jaringan menggunakan perangkat Cisco baik mengunakan sistem wireline ataupun wireless
 - Menjelaskan dan melakukan mitigasi ketika terjadi sebuah trouble dalam sebuah jaringan
 
+![image](https://user-images.githubusercontent.com/77278210/122935253-6520ba00-d39a-11eb-9e27-69db1efff861.png)
 
 ### dicoding academy - DevOps Praktis dengan IBM Cloud : Practical DevOps with IBM Cloud (26 April 2021)  
 - Menjelaskan konsep dasar sistem komunikasi jaringan. 
