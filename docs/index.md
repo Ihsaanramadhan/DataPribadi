@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Selamat datang di GitHub.io saya
 
-You can use the [editor on GitHub](https://github.com/Ihsaanramadhan/DataPribadi/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Web ini hanya berisi beberapa data pribadi sayaYou can use the [editor on GitHub](https://github.com/Ihsaanramadhan/DataPribadi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+[image](https://user-images.githubusercontent.com/77278210/122925860-71ece000-d391-11eb-8e91-c6ed1f0e2c6a.png)
+
+![image](https://user-images.githubusercontent.com/77278210/122925860-71ece000-d391-11eb-8e91-c6ed1f0e2c6a.png)
