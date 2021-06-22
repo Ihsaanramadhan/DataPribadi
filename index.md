@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Selamat datang di GitHub.io saya!
 
-You can use the [editor on GitHub](https://github.com/Ihsaanramadhan/DataPribadi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Web ini hanya berisikan beberapa sertifikat yang saya miliki.
+Saya mengikuti beberapa pelatihan dan sertifikasi ini secara online maupun offline. Saya akan jelaskan apa yang saya dapatkan selama pelatihan tersebut. Untuk detail dari pelatihan yang saya ikuti juga terlampir pada sertifikatnya. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Universitas Mitra Indonesia - Cisco Networking Academy : Networking Essentials (17 Januari 2021) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Menjelaskan konsep dasar sistem komunikasi jaringan. 
+- Menjelaskan standar protokol yang digunakan dalam sistem komunikasi jaringan
+- Menjelaskan subnetting dan routing protocol yang digunakan dalam sistem komunikasi jaringan
+- Membuat dan menerapkan konfigurasi dasar jaringan menggunakan perangkat Cisco baik mengunakan sistem wireline ataupun wireless
+- Menjelaskan dan melakukan mitigasi ketika terjadi sebuah trouble dalam sebuah jaringan
+
+![image](https://user-images.githubusercontent.com/77278210/122932613-15d98a00-d398-11eb-8e26-efc6e1d40bed.png)
+
 
 ```markdown
 Syntax highlighted code block
